@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm a Software Engineering Student 👋
 
-<!--
-**shaharyar27/shaharyar27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Currently pursuing BS Software Engineering at MAJU.
 
-Here are some ideas to get you started:
+💻 Learning C++ and programming fundamentals.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 Interested in software development, problem-solving, and building useful applications.
+
+## 🛠️ Skills I'm Learning
+- C++
+- Python
+- Programming Logic
+
+## 🚀 Current Goals
+- Improve problem-solving skills
+- Build practical software projects
+- Learn software development workflows
+
+## 📂 Projects
+Projects will be added here as I build them.
